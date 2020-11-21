@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>760</width>
-    <height>160</height>
+    <height>211</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -19,8 +19,34 @@
      <x>20</x>
      <y>20</y>
      <width>721</width>
-     <height>131</height>
+     <height>151</height>
     </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="go_redactor">
+   <property name="geometry">
+    <rect>
+     <x>450</x>
+     <y>180</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>В редактор</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>180</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Обновить</string>
    </property>
   </widget>
  </widget>
